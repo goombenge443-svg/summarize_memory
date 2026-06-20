@@ -2,9 +2,11 @@
 // @name        WRTN RP Memory Compressor
 // @namespace   wrtn-memory-helper
 // @version     1.0
+// @author      게으른굼벵이
 // @description 장기기억 압축 복사 도우미
 // @match       *://*.wrtn.ai/*
 // @grant       none
+// @homepageURL  https://github.com/goombenge443-svg/summarize_memory
 // ==/UserScript==
 
 (function () {

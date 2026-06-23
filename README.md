@@ -13,7 +13,8 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 * 클립보드 복사
 
 <details>
-   
+<summary>⚙️ 설치 방법 & 사용 방법 </summary>
+
 ## 설치 방법
 
 1. Tampermonkey 설치
@@ -43,6 +44,7 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 </details>
 
 <details>
+<summary>⚙️ 장기기억 건강도</summary>  
    
 ## 장기기억 건강도
 
@@ -72,6 +74,7 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 ---
 
 <details>
+<summary>⚙️ 1.5v</summary>   
    
 ## WRTN RP Memory Compressor v1.5
 
@@ -105,7 +108,6 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 </details>
 
 <details>
-   
 <summary>📜 전체 업데이트 내역</summary>
 
 ### v1.5

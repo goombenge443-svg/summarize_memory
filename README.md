@@ -66,10 +66,10 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 * 압축 프롬프트 자동 첨부
 * 클립보드 복사
 
+## 설치 방법 & 사용 방법
+
 <details>
 <summary>⚙️ 설치 방법 & 사용 방법 </summary>
-
-## 설치 방법
 
 1. Tampermonkey 설치
 2. 저장 링크 다운로드:https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_RP_Memory_Compressor.user.js
@@ -97,10 +97,10 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
    
 </details>
 
+## 장기기억 건강도?
+
 <details>
 <summary>🟢 장기기억 건강도</summary>  
-   
-## 장기기억 건강도
 
 🟢 0~19개 : 안전
 

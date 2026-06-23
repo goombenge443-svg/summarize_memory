@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 * 클립보드 복사
 
 <details>
+   
 ## 설치 방법
 
 1. Tampermonkey 설치
@@ -38,9 +39,11 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 ### 7. 압축 결과를 바탕으로 '직접' 장기기억 수정 (복붙하면 자동추가되는 기능 만드는중)
    ![](https://gbe88.uk/notice/n_9_lapsrn_x2.webp)
    ![](https://gbe88.uk/notice/n_10_lapsrn_x2.webp)
+   
 </details>
 
 <details>
+   
 ## 장기기억 건강도
 
 🟢 0~19개 : 안전
@@ -50,6 +53,7 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 🟠 30~49개 : 압축 권장
 
 🔴 50개 이상 : 압축 추천
+
 </details>
 
 
@@ -68,6 +72,7 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 ---
 
 <details>
+   
 ## WRTN RP Memory Compressor v1.5
 
 ### ✨ 신규 기능
@@ -96,6 +101,7 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 * 압축 기억 식별용 이모지 변경
 * 향후 자동 저장 기능과의 호환성 개선
 * 초장기 RP 방 관리 편의성 향상
+  
 </details>
 
 <details>

@@ -43,6 +43,10 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 <details>
 <summary>📜 전체 업데이트 내역</summary>
 
+### v1.6
+- UI/UX 개선
+- 버튼 색상 구분 적용
+
 ### v1.5
 - 선택 압축 기능 추가
 - 메모장 기능 추가

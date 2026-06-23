@@ -4,6 +4,22 @@ WRTN RP 장기기억 압축 보조 스크립트입니다.
 
 https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_RP_Memory_Compressor.user.js
 
+<details>
+<summary>📜 전체 업데이트 내역</summary>
+
+### v1.5
+- 선택 압축 기능 추가
+- 메모장 기능 추가
+
+### v1.1
+- 최신 압축 기능 추가
+- UI 개선
+
+### v1.0
+- 장기기억 상태 표시 추가
+
+</details>
+
 ## 주요 기능
 
 * 장기기억 자동 펼치기
@@ -105,20 +121,4 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 * 향후 자동 저장 기능과의 호환성 개선
 * 초장기 RP 방 관리 편의성 향상
   
-</details>
-
-<details>
-<summary>📜 전체 업데이트 내역</summary>
-
-### v1.5
-- 선택 압축 기능 추가
-- 메모장 기능 추가
-
-### v1.1
-- 최신 압축 기능 추가
-- UI 개선
-
-### v1.0
-- 장기기억 상태 표시 추가
-
 </details>

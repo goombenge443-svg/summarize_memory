@@ -8,9 +8,7 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 ## 최신 업데이트
 
 <details>
-<summary>⚙️ v1.5</summary>   
-   
-## WRTN RP Memory Compressor v1.5
+<summary>⚙️ WRTN RP Memory Compressor v1.5</summary>   
 
 ### ✨ 신규 기능
 

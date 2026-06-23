@@ -2,6 +2,8 @@
 
 WRTN RP 장기기억 압축 보조 스크립트입니다.
 
+https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_RP_Memory_Compressor.user.js
+
 ## 주요 기능
 
 * 장기기억 자동 펼치기
@@ -10,7 +12,7 @@ WRTN RP 장기기억 압축 보조 스크립트입니다.
 * 압축 프롬프트 자동 첨부
 * 클립보드 복사
 
-
+<details>
 ## 설치 방법
 
 1. Tampermonkey 설치
@@ -36,8 +38,9 @@ WRTN RP 장기기억 압축 보조 스크립트입니다.
 ### 7. 압축 결과를 바탕으로 '직접' 장기기억 수정 (복붙하면 자동추가되는 기능 만드는중)
    ![](https://gbe88.uk/notice/n_9_lapsrn_x2.webp)
    ![](https://gbe88.uk/notice/n_10_lapsrn_x2.webp)
+</details>
 
-
+<details>
 ## 장기기억 건강도
 
 🟢 0~19개 : 안전
@@ -47,6 +50,8 @@ WRTN RP 장기기억 압축 보조 스크립트입니다.
 🟠 30~49개 : 압축 권장
 
 🔴 50개 이상 : 압축 추천
+</details>
+
 
 ## 주의사항
 
@@ -61,7 +66,9 @@ WRTN RP 장기기억 압축 보조 스크립트입니다.
 개인 사용 및 수정 자유.
 
 ---
-# WRTN RP Memory Compressor v1.6
+
+<details>
+## WRTN RP Memory Compressor v1.5
 
 ### ✨ 신규 기능
 
@@ -89,3 +96,21 @@ WRTN RP 장기기억 압축 보조 스크립트입니다.
 * 압축 기억 식별용 이모지 변경
 * 향후 자동 저장 기능과의 호환성 개선
 * 초장기 RP 방 관리 편의성 향상
+</details>
+
+<details>
+   
+<summary>📜 전체 업데이트 내역</summary>
+
+### v1.5
+- 선택 압축 기능 추가
+- 메모장 기능 추가
+
+### v1.1
+- 최신 압축 기능 추가
+- UI 개선
+
+### v1.0
+- 장기기억 상태 표시 추가
+
+</details>

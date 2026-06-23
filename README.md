@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 </details>
 
 <details>
-<summary>🟢장기기억 건강도</summary>  
+<summary>🟢 장기기억 건강도</summary>  
    
 ## 장기기억 건강도
 

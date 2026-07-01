@@ -5,8 +5,9 @@ WRTN RP 장기기억 압축 보조 스크립트입니다.
 https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_RP_Memory_Compressor.user.js
 
 ---
-## 최신 업데이트
+## ⚙️ 최신 업데이트
    ![](https://gbe88.uk/notice/o6.webp)
+#### 딸깍 저장 구현!
 
 <details>
 <summary>⚙️ WRTN RP Memory Compressor v2.0</summary>   

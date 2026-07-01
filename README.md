@@ -6,6 +6,7 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 
 ---
 ## 최신 업데이트
+   ![](https://gbe88.uk/notice/o6.webp)
 
 <details>
 <summary>⚙️ WRTN RP Memory Compressor v2.0</summary>   

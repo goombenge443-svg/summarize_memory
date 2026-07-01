@@ -53,6 +53,7 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 * 장기기억 건강도 표시
 * 압축 프롬프트 자동 첨부
 * 클립보드 복사
+* 장기기억에 딸깍 추가
 
 ## 설치 방법 & 사용 방법
 
@@ -109,9 +110,7 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 
 ## 주의사항
 
-* 이 스크립트는 장기기억을 읽고 복사만 수행합니다.
-* 장기기억 수정, 삭제, 추가 기능은 포함되어 있지 않습니다.
-* 압축 적용은 사용자가 직접 수행해야 합니다.
+* 이 스크립트는 외부 LLM에 유저가 직접 들고 가서 요약을 받아와야 합니다.
 * 스크롤되지 않은 기억은 수집되지 않을 수 있습니다.
 * 사용 전 압축할 기억까지 충분히 스크롤해 주세요.
 

@@ -67,20 +67,26 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 ### 1. 설치 후 작동 확인
  ![](https://gbe88.uk/notice/n_1_lapsrn_x2.webp)
  ![](https://gbe88.uk/notice/n_2_lapsrn_x2.webp)
-### 2. 장기기억 탭 진입
-### 3. 스크롤하여 로딩
-   ![](https://gbe88.uk/notice/n_3_lapsrn_x2.webp)
-### 4. 🧠/📌 압축 복사 버튼 클릭
-   ![](https://gbe88.uk/notice/n_5_lapsrn_x2.webp)
-### 5. 외부 LLM(ChatGPT, Gemini 등)에 붙여넣기
-   ![](https://gbe88.uk/notice/n_6_lapsrn_x2.webp)
-   ![](https://gbe88.uk/notice/n_7_lapsrn_x2.webp)
-### 6. 압축 결과 수신
-   ![](https://gbe88.uk/notice/n_8_lapsrn_x2.webp)
-### 7. 압축 결과를 바탕으로 '직접' 장기기억 수정 (복붙하면 자동추가되는 기능 만드는중)
-   ![](https://gbe88.uk/notice/n_9_lapsrn_x2.webp)
-   ![](https://gbe88.uk/notice/n_10_lapsrn_x2.webp)
+ 
+### 2. 장기기억 탭 진입, 🧠/🎯 압축 복사 버튼 클릭 (반드시 전체 스크롤 필수)
+   ![](https://gbe88.uk/notice/o2.webp)
+
+### 3. 외부 LLM(ChatGPT, Gemini 등)에 붙여넣고 결과 수신
+   ![](https://gbe88.uk/notice/o3.webp)
    
+
+### 4. 메모장에 복붙
+   ![](https://gbe88.uk/notice/o4.webp)
+   ![](https://gbe88.uk/notice/o5.webp)
+
+   
+### 5. 딸깍 저장 클릭
+   ![](https://gbe88.uk/notice/o6.webp)
+   ![](https://gbe88.uk/notice/o7.webp)
+
+### 6. 장기기억 확인 이후 기존 자동 저장된 허접 기억들 정리
+   ![](https://gbe88.uk/notice/o8.webp)
+
 </details>
 
 ## 장기기억 건강도?

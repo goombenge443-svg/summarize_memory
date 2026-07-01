@@ -8,40 +8,24 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 ## 최신 업데이트
 
 <details>
-<summary>⚙️ WRTN RP Memory Compressor v1.5</summary>   
+<summary>⚙️ WRTN RP Memory Compressor v2.0</summary>   
 
 ### ✨ 신규 기능
 
-* 📌 최신 압축 → 🎯 선택 압축으로 변경
-* 장기기억을 직접 선택하여 압축 가능
-* 압축 범위를 세밀하게 지정 가능
-* 이미 압축된 기억(✅)과 최근 기억을 구분하여 관리 가능
+* ✅ 헤더 별로 끊어서 장기기억 추가
 
-### 📝 메모장 기능 추가
+### 📝 메모장
 
-* 우측 하단 메모장 추가
-* 외부 LLM 결과를 임시 저장 가능
-* 복사/붙여넣기 작업 중 창 전환 부담 감소
-* 장기기억 저장 전 임시 보관 용도로 활용 가능
-
-### 🎨 UI 개선
-
-* 선택 압축 모달 추가
-* 전체선택 / 전체해제 / 취소 / 선택압축 버튼 추가
-* 버튼 색상 구분 적용
-* 사용성 개선
-
-### 🔧 기타
-
-* 압축 기억 식별용 이모지 변경
-* 향후 자동 저장 기능과의 호환성 개선
-* 초장기 RP 방 관리 편의성 향상
+* 메모장 내에 자동 저장 구현
 
 ## 전체 업데이트 내역  
 </details>
 
 <details>
 <summary>📜 전체 업데이트 내역</summary>
+
+### v2.0
+- 자동 저장 구현
 
 ### v1.6
 - UI/UX 개선

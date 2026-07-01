@@ -15,6 +15,7 @@ https://raw.githubusercontent.com/goombenge443-svg/summarize_history/main/WRTN_R
 ### ✨ 신규 기능
 
 * ✅ 헤더 별로 끊어서 장기기억 추가
+  - 메모장에 복붙한 것을 ✅단위로 제목과 내용으로 인지, 개별적으로 기억을 자동 추가해줍니다
 
 ### 📝 메모장
 
